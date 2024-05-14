@@ -1,1 +1,1 @@
-Backend: React-on-rails-test-1 at 3001
+Backend: PhotoManagerBackend (run at port 3001 )
