@@ -1,0 +1,19 @@
+@keyframes errorPulse {
+  0%{color: inherit; background-color: inherit;}
+  100%{color: white; background-color: red;}
+}
+
+@keyframes successPulse {
+  0%{color: inherit; background-color: inherit;}
+  100%{color: white; background-color: greenyellow;}
+}
+
+.error_pulse {
+  animation: errorPulse .3s infinite;
+  transition: all .15s;
+}
+
+.success_pulse {
+  animation: successPulse .3s infinite;
+  transition: all .15s;
+}

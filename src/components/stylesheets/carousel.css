@@ -1,0 +1,20 @@
+
+.carasoul-arrow {
+  height: 25rem;
+}
+
+.carasoul-container {
+  width: 31rem;
+  overflow: hidden;
+}
+
+.carasoul-slider {
+  display: flex;
+  width: 155rem;
+  margin-left: 0;
+  transition: margin-left .5s ease-in-out;
+}
+
+.carasoul-image {
+  width: 31rem;
+}

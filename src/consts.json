@@ -1,0 +1,5 @@
+{
+  "backend_base": "http://127.0.0.1:3001",
+  "calculator_flag": "true",
+  "months": ["January", "Febuary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
+}
